@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hilos_y_sensores</string>
+    <string name="lista_de_sensores_n">Lista de sensores: \n</string>
+    <string name="proximidad">Proximidad:</string>
+    <string name="luz">Luz:</string>
+    <string name="tv_proximity">-</string>
+    <string name="tv_Luminosidad">-</string>
+</resources>
